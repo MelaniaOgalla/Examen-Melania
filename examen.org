@@ -168,7 +168,7 @@
 :END:
 
 1) dir directorio
-(x)2) mkdir directorio
+(x)2) mkdir directorio 
 3) directorio ven a mi 
 4) la primera, que sí, de verdad 
 
